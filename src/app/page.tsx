@@ -10,6 +10,10 @@ import Skill from "./component/skill";
 export default function Home() {
   return (
    <div>
+      <head>
+      <title>Portfolio</title>
+      <meta name="description" content="This is a custom description for my page." />
+     </head>
     <Hero/>
     <About/>
     <Skill/>
