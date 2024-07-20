@@ -17,7 +17,7 @@ const Footer = () => {
       <span className="ml-3 text-xl">Abdul Rehman Coder</span>
     </a>
     <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
-      © 2020 Abdul Rehman Coder —
+      © 2024 Abdul Rehman Coder —
     </p>
     <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
       <Link href={"https://www.facebook.com/profile.php?id=61554083063522"} target='_blank' className="text-gray-500">
