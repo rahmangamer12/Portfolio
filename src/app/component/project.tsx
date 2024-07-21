@@ -20,7 +20,7 @@ const Project = () => {
           <Image
             alt="gallery"
             className="absolute inset-0 w-full h-full object-cover object-center"
-            src={require('../../../public/assets/Projects/Screenshot 2024-07-19 015701.png')}
+            src={require('../../../public/assets/Projects/facebook.png')}
             width={500}
             height={500}
           />
@@ -34,7 +34,7 @@ const Project = () => {
             <p className="leading-relaxed line-clamp-2">
               I created Facebook Login Page Clone With Next.Js.
             </p>
-            <Link target='_blank' href={"https://catering-dun.vercel.app/"}>
+            <Link target='_blank' href={"https://login-page-c6k4.vercel.app/"}>
             <p className="leading-relaxed text-blue-500 hover:underline">Veiw Project..</p>
             </Link>
           </div>
@@ -45,21 +45,21 @@ const Project = () => {
           <Image
             alt="gallery"
             className="absolute inset-0 w-full h-full object-cover object-center"
-            src={require('../../../public/assets/Projects/Screenshot 2024-07-19 015950.png')}
+            src={require('../../../public/assets/Projects/mp3.png')}
             width={500}
             height={500}
           />
           <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">
-              Sms
+              Music Player
             </h2>
             <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-              SMS
+              MP3
             </h1>
             <p className="leading-relaxed line-clamp-2">
-              I created Medicen Page With Next.Js.
+              I created MP3 with Html/Css/Javascript but one issue i public this project and mp3 not working.
             </p>
-            <Link target='_blank' href={"https://sms-sooty-gamma.vercel.app/"}>
+            <Link target='_blank' href={"https://rahmangamer12.github.io/Music-Player/"}>
             <p className="leading-relaxed text-blue-500 hover:underline">Veiw Project..</p>
             </Link>
           </div>
@@ -70,21 +70,21 @@ const Project = () => {
           <Image
             alt="gallery"
             className="absolute inset-0 w-full h-full object-cover object-center"
-            src={require('../../../public/assets/Projects/pro-1.jpeg')}
+            src={require('../../../public/assets/Projects/image.png')}
             width={500}
             height={500}
           />
           <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">
-              Sms
+              Image Gallery
             </h2>
             <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-              SMS
+              Gallery
             </h1>
             <p className="leading-relaxed line-clamp-2">
-              I created Medicen Page With Next.Js.
+              I created Responsive Image Gallery With Html And Css.
             </p>
-            <Link target='_blank' href={"https://sms-sooty-gamma.vercel.app/"}>
+            <Link target='_blank' href={"https://rahmangamer12.github.io/Best-Responsive-Image-Gallery/"}>
             <p className="leading-relaxed text-blue-500 hover:underline">Veiw Project..</p>
             </Link>
           </div>
